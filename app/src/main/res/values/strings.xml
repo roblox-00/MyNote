@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">یادداشت</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="activity_title_home">یادداشت ها</string>
+    <string name="msg_no_notes">یادداشتی  پیدا نشد!</string>
+    <string name="lbl_new_note_title">یادداشت جدید</string>
+    <string name="lbl_edit_note_title">ویرایش یادداشت</string>
+    <string name="hint_enter_note">یادداشت را وارد کنید</string>
+</resources>
